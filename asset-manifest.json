@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NATFINEST/prenetics./static/css/main.a617e044.chunk.css",
+    "main.js": "/NATFINEST/prenetics./static/js/main.3e63e7b9.chunk.js",
+    "main.js.map": "/NATFINEST/prenetics./static/js/main.3e63e7b9.chunk.js.map",
+    "runtime-main.js": "/NATFINEST/prenetics./static/js/runtime-main.da2bd746.js",
+    "runtime-main.js.map": "/NATFINEST/prenetics./static/js/runtime-main.da2bd746.js.map",
+    "static/js/2.7d44cd46.chunk.js": "/NATFINEST/prenetics./static/js/2.7d44cd46.chunk.js",
+    "static/js/2.7d44cd46.chunk.js.map": "/NATFINEST/prenetics./static/js/2.7d44cd46.chunk.js.map",
+    "static/js/3.9e236826.chunk.js": "/NATFINEST/prenetics./static/js/3.9e236826.chunk.js",
+    "static/js/3.9e236826.chunk.js.map": "/NATFINEST/prenetics./static/js/3.9e236826.chunk.js.map",
+    "index.html": "/NATFINEST/prenetics./index.html",
+    "static/css/main.a617e044.chunk.css.map": "/NATFINEST/prenetics./static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7d44cd46.chunk.js.LICENSE.txt": "/NATFINEST/prenetics./static/js/2.7d44cd46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NATFINEST/prenetics./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2bd746.js",
+    "static/js/2.7d44cd46.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3e63e7b9.chunk.js"
+  ]
+}
